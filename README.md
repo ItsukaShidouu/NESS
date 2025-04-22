@@ -39,7 +39,5 @@
 ## 🛑 `Staff Contribute`
 [![INS](https://github.com/INsITdeveloper.png?size=100)](https://github.com/INsITdeveloper)
 [![NeofetchNpc](https://github.com/NeofetchNpc.png?size=100)](https://github.com/NeofetchNpc)
-[![NSID](https://github.com/NSSID.png?size=100)](https://github.com/NSSID)
-[![GZZ](https://github.com/glospotnew.png?size=100)](https://github.com/glospotnew)
 
 ---------
