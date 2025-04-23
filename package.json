@@ -1,11 +1,14 @@
 {
-  "name": "UNESSMD",
+  "name": "unessmd",
   "version": "0.0.1",
   "description": "Self Module",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "node test.js"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "Scraper",
@@ -27,8 +30,6 @@
     "Translator",
     "AutoDown",
     "Google",
-    "Translator",
-    "Text To Speech",
     "Scraper tools",
     "Data scraping",
     "Content downloader",
@@ -74,11 +75,11 @@
     "Web tools",
     "Development tools"
   ],
-  "author": "NeofetchNpc",
+  "author": "BukanNPC",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NeofetchNpc/NESSID.git"
+    "url": "https://github.com/NSSID/UNESSMD.git"
   },
   "homepage": "https://saweria.co/YUSUP909",
   "dependencies": {
