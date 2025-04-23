@@ -1,4 +1,4 @@
-name: Publish on Version Change
+name: Auto Publish to npm
 
 on:
   push:
@@ -8,22 +8,33 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 2
-      - uses: actions/setup-node@v4
+          fetch-depth: 2  # supaya bisa lihat perubahan sebelumnya
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 20
           registry-url: https://registry.npmjs.org/
-      - run: npm install
 
-      - name: Check version change
-        id: version
+      - name: Install dependencies
+        run: npm install
+
+      - name: Check if version changed
+        id: version_check
         run: |
-          git diff HEAD^ HEAD package.json | grep '"version"' && echo "changed=true" >> $GITHUB_OUTPUT || echo "changed=false" >> $GITHUB_OUTPUT
+          VERSION_CHANGED=$(git diff HEAD^ HEAD package.json | grep '"version"' || true)
+          if [ -n "$VERSION_CHANGED" ]; then
+            echo "Version changed. Will publish."
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "No version change. Skipping publish."
+            echo "changed=false" >> $GITHUB_OUTPUT
 
-      - name: Publish if version changed
-        if: steps.version.outputs.changed == 'true'
+      - name: Publish to npm
+        if: steps.version_check.outputs.changed == 'true'
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
