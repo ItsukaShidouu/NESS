@@ -22,6 +22,6 @@
 ---------
 
 # 📍 `MORE INFO`
-- [DOKUMENTASI](https://github.com/NeofetchNpc/NeastooAPI/wiki/Documentation)
+- [DOKUMENTASI](https://github.com/NSSID/Ness-MODULE/wiki/Dokumentasi)
 - [DONASI ID](https://saweria.co/YUSUP909)
 - [DISCORD SUPPORT](https://discord.gg/y4W3yd5GU5)
