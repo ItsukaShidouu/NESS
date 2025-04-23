@@ -1,4 +1,4 @@
-import { AioDl } from './plugins/DL-Aio.js';
+import { AioDl } from './plugins/DL-aio.js';
 
 const nessid = {
   AioDl
