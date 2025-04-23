@@ -1,7 +1,7 @@
 {
-  "name": "ness",
+  "name": "UNESSID",
   "version": "0.1",
-  "description": "Malas Menanggapi",
+  "description": "Self Module",
   "main": "index.js",
   "type": "module",
   "scripts": {
