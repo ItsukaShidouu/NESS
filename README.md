@@ -15,12 +15,7 @@
 ---------
 
 # 📍 `Changelogs`
-```js
-// ( WIP ) Work In Progres
-// Stabile Version
-+ Fix YTDL & Minor Error
-- Removing Err Viture
-```
+[Click Hare]()
 
 ---------
 
@@ -33,11 +28,3 @@
 - [DOCS ID](https://github.com/NeofetchNpc/NeastooAPI/wiki/Documentation)
 - [DONASI ID](https://saweria.co/YUSUP909)
 - [DISCORD SUPPORT](https://discord.gg/y4W3yd5GU5)
-
----------
-
-## 🛑 `Staff Contribute`
-[![INS](https://github.com/INsITdeveloper.png?size=100)](https://github.com/INsITdeveloper)
-[![NeofetchNpc](https://github.com/NeofetchNpc.png?size=100)](https://github.com/NeofetchNpc)
-
----------
