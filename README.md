@@ -17,7 +17,7 @@
 ---------
 
 # 📍 `Changelogs`
-[Click Hare]()
+[Click Hare](https://github.com/NSSID/Ness-MODULE/releases/latest)
 
 ---------
 
