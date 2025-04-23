@@ -21,4 +21,4 @@ for (const file of files) {
 }
 
 export default nessid;
-export const domain = 'https://backend.neastooid.xyz';
+export const domain = 'https://backend.ness.biz.id';
