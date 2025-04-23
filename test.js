@@ -1,5 +1,6 @@
-/*import nessid from './index.js';
+/* import nessid from './index.js';
 
-nessid.GptAi('halo')
-  .then(result => console.log(result));
+nessid.TTDl('https://www.tiktok.com/@dantayspicks/video/7492818112589466923?is_from_webapp=1&sender_device=pc')
+  .then(console.log)
+  .catch(console.error);
 */
