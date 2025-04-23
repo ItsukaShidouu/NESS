@@ -2,6 +2,8 @@
 
 # 🛑 `Note !!!`
 > This Module is Still Under Development!!! Just Wait for the Update!!!
+> 
+> Please Do Not Spam Because Our Server Is Only On Vercel With Free Billing, If You Want To Help Donate, You Can Do It On The Homepage Link!!!.
 
 ---------
 
@@ -16,11 +18,6 @@
 
 # 📍 `Changelogs`
 [Click Hare]()
-
----------
-
-# 🛑 `Announcement !!!`
-> Please Do Not Spam Because Our Server Is Only On Vercel With Free Billing, If You Want To Help Donate, You Can Do It On The Homepage Link!!!.
 
 ---------
 
