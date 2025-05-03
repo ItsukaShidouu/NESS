@@ -1,11 +1,11 @@
 import axios from 'axios';
 import { domain } from '../index.js';
 
-export async function AioDl(url) {
+export async function TTDl(url) {
   if (!url) throw new Error('URL is required.');
 
   try {
-    const { data } = await axios.get(`${domain}/api/downloader/aio`, {
+    const { data } = await axios.get(`${domain}/api/downloader/tiktok`, {
       params: { url },
     });
 
