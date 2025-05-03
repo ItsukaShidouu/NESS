@@ -1,6 +1,6 @@
 {
   "name": "unessmd",
-  "version": "0.0.1",
+  "version": "0.1",
   "description": "Self Module",
   "main": "index.js",
   "type": "module",
