@@ -1,7 +1,9 @@
 import { AioDl } from './plugins/DL-aio.js';
+import { TTDL } from './plugins/DL-TTDl.js';
 
 const nessid = {
-  AioDl
+  AioDl,
+  TTDl
 };
 
 export default nessid;
