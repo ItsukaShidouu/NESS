@@ -4,6 +4,7 @@ import { IGDl } from './plugins/DL-IG.js';
 import { XDl } from './plugins/DL-X.js';
 import { YTMP3Dl } from './plugins/DL-YTMP3.js';
 import { YTMP4Dl } from './plugins/DL-YTMP4.js';
+import { WaifuANIME } from './plugins/ANIME-WAIFU.js';
 
 const nessid = {
   AioDl,
@@ -11,7 +12,8 @@ const nessid = {
   IGDl,
   XDl,
   YTMP3Dl,
-  YTMP4Dl
+  YTMP4Dl,
+  WaifuANIME
 };
 
 export default nessid;
