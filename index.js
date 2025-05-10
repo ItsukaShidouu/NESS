@@ -10,8 +10,8 @@ const nessid = {
   TTDl,
   IGDl,
   XDl,
-  YTMP3,
-  YTMP4
+  YTMP3Dl,
+  YTMP4Dl
 };
 
 export default nessid;
