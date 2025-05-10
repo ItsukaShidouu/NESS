@@ -5,6 +5,8 @@ import { XDl } from './plugins/DL-X.js';
 import { YTMP3Dl } from './plugins/DL-YTMP3.js';
 import { YTMP4Dl } from './plugins/DL-YTMP4.js';
 import { AWaifu } from './plugins/ANIME-Waifu.js';
+import { ALoli } from './plugins/ANIME-Loli.js';
+import { ACosplayer } from './plugins/ANIME-Cosplayer.js';
 
 const nessid = {
   AioDl,
@@ -13,7 +15,9 @@ const nessid = {
   XDl,
   YTMP3Dl,
   YTMP4Dl,
-  AWaifu
+  AWaifu,
+  Aloli,
+  ACosplayer
 };
 
 export default nessid;
