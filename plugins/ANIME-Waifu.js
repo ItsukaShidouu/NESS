@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { domain } from '../index.js';
 
-export async function WaifuANIME() {
+export async function AWaifu() {
   try {
     const { data } = await axios.get(`${domain}/api/anime/waifu`);
     return data;
