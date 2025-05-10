@@ -5,8 +5,9 @@ nessid.TTDl('https://www.tiktok.com/@dantayspicks/video/7492818112589466923')
   .catch(console.error);
   */
 
-import nessid from './index.js';
+/*import nessid from './index.js';
 
 nessid.AWaifu()
   .then(console.log)
   .catch(console.error);
+*/
