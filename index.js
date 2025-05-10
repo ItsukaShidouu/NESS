@@ -17,7 +17,7 @@ const nessid = {
   YTMP3Dl,
   YTMP4Dl,
   AWaifu,
-  Aloli,
+  ALoli,
   ACosplayer,
   AWallpaper
 };
