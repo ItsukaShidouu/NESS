@@ -5,7 +5,7 @@ export async function IGDl(url) {
   if (!url) throw new Error('URL is required.');
 
   try {
-    const { data } = await axios.get(`${domain}/api/downloader/tiktok`, {
+    const { data } = await axios.get(`${domain}/api/downloader/ig`, {
       params: { url },
     });
 
