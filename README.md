@@ -24,6 +24,6 @@
 ---------
 
 # 📍 `MORE INFO`
-- [DOKUMENTASI](https://github.com/NSSID/Ness-MODULE/wiki/Dokumentasi)
-- [DONASI ID](https://saweria.co/YUSUP909)
-- [DISCORD SUPPORT](https://discord.gg/y4W3yd5GU5)
+- [DOCS](https://github.com/NSSID/Ness-MODULE/wiki/Dokumentasi)
+- [DONATE](https://saweria.co/YUSUP909)
+- [DISCORD](https://discord.gg/y4W3yd5GU5)
