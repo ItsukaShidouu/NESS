@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { domain } from '../index.js';
 
-export async function AWallapper(q) {
+export async function AWallpaper(q) {
   if (!q) throw new Error('Parameter "q" wajib diisi.');
 
   try {
