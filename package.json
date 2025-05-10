@@ -1,6 +1,6 @@
 {
-  "name": "unessmd",
-  "version": "0.1.1",
+  "name": "apinessid",
+  "version": "1.0.0",
   "description": "Self Module",
   "main": "index.js",
   "type": "module",
