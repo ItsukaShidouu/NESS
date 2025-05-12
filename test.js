@@ -1,8 +1,8 @@
-import nessid from './index.js';
+/*import nessid from './index.js';
 
 nessid.SPOTIFYDl('https://open.spotify.com/intl-id/track/5WOSNVChcadlsCRiqXE45K?si=7e743842349b4947')
   .then(console.log)
-  .catch(console.error);
+  .catch(console.error);*/
   
 /*import nessid from './index.js';
 
