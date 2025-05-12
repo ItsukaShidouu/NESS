@@ -18,7 +18,7 @@
 
 # 📍 `Changelogs`
 ```js
-+ Downloaders Sosial Media
++ Spotify Downloaders
 + Anime Tools
 ```
 
