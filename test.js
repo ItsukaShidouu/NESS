@@ -1,10 +1,9 @@
-/*import nessid from './index.js';
+import nessid from './index.js';
 
-nessid.TTDl('https://www.tiktok.com/@dantayspicks/video/7492818112589466923')
+nessid.SPOTIFYDl('https://open.spotify.com/intl-id/track/5WOSNVChcadlsCRiqXE45K?si=7e743842349b4947')
   .then(console.log)
   .catch(console.error);
-  */
-
+  
 /*import nessid from './index.js';
 
 nessid.AWaifu()
