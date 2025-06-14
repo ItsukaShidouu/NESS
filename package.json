@@ -1,6 +1,6 @@
 {
-  "name": "apinessid",
-  "version": "1.0.3",
+  "name": "nessid",
+  "version": "1.0.0",
   "description": "Self Module",
   "main": "index.js",
   "type": "module",
