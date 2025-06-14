@@ -18,8 +18,8 @@
 
 # 📍 `Changelogs`
 ```js
-+ Spotify Downloaders
-+ Anime Tools
++ MAL Detail
++ News Gempa
 ```
 
 ---------
