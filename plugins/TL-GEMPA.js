@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { domain } from '../index.js';
 
-export async function AWaifu() {
+export async function TGempa() {
   try {
     const { data } = await axios.get(`${domain}/api/tools/gempa`);
     return data;
