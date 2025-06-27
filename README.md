@@ -18,8 +18,7 @@
 
 # 📍 `Changelogs`
 ```js
-+ MAL Detail
-+ News Gempa
++ Yt Search
 ```
 
 ---------
