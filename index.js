@@ -29,4 +29,4 @@ const nessid = {
 };
 
 export default nessid;
-export const domain = 'https://backend.ness.biz.id';
+export const domain = 'https://api.ness.biz.id';
