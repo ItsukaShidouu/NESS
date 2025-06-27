@@ -11,6 +11,7 @@ import { ACosplayer } from './plugins/ANIME-Cosplayer.js';
 import { AWallpaper } from './plugins/ANIME-Wallpaper.js';
 import { AMalDetail } from './plugins/ANIME-Detail.js';
 import { TGempa } from './plugins/TL-GEMPA.js';
+import { TYtsearch } from './plugins/TL-YTSCR.js';
 
 const nessid = {
   AioDl,
@@ -25,7 +26,8 @@ const nessid = {
   ACosplayer,
   AWallpaper,
   AMalDetail,
-  TGempa
+  TGempa,
+  TYtsearch
 };
 
 export default nessid;
