@@ -10,7 +10,7 @@
 <details open align="center">
 <summary><b>↓ Total Visitors ↓</b></summary>
 <br>
-<a href="https://www.instagram.com/fatih_frdaus"><img alt="Cute Count" src="https://count.getloli.com/get/@NeofetchNpc?theme=rule34"/></a>
+<a href="https://www.instagram.com/yusupk_."><img alt="Cute Count" src="https://count.getloli.com/get/@NeofetchNpc?theme=rule34"/></a>
 </details>
 </div>
 
@@ -24,6 +24,6 @@
 ---------
 
 # 📍 `MORE INFO`
-- [DOCS](https://github.com/NSSID/Ness-MODULE/wiki/Dokumentasi)
+- [DOCS](https://github.com/nobetachan/NESSID/wiki)
 - [DONATE](https://saweria.co/YUSUP909)
 - [DISCORD](https://discord.gg/y4W3yd5GU5)
