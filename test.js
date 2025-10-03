@@ -6,6 +6,6 @@ nessid.SPOTIFYDl('https://open.spotify.com/intl-id/track/5WOSNVChcadlsCRiqXE45K?
   
 import ness from './index.js';
 
-ness.Dl_YTS(sahroni)
+ness.Dl_YTS('sahroni')
   .then(console.log)
   .catch(console.error);
