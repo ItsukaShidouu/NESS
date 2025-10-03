@@ -1,7 +1,5 @@
 ---
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
 # 📦 ness-downloader
 
 ![npm](https://img.shields.io/npm/v/ness-downloader?style=for-the-badge&color=blue)
@@ -15,15 +13,13 @@
 
 ---
 
-# 🛑 Status: Dalam Pengembangan  
+# 🛑 Dalam Pengembangan  
 > ⚠️ *Modul ini masih dalam tahap pengembangan. Gunakan dengan bijak!*  
 >  
 > Jangan lakukan spam karena server kami di-host secara gratis di Vercel.  
 > Jika ingin mendukung, silakan kunjungi link donasi di halaman utama.
 
 ---
-
-## 📄 Fitur & Changelog
 
 **🆕 Changelog Terbaru**  
 ```text
@@ -37,17 +33,6 @@
 
 - 📘 [Wiki Dokumentasi Lengkap](#)
 - 💖 [Donasi / Support via Saweria](#)
-
----
-
-## 📊 Statistik Otomatis
-
-- 📦 Versi terbaru: lihat badge npm di atas  
-- 📥 Unduhan mingguan: lihat badge npm downloads  
-- 📈 Total unduhan: lihat badge npm total downloads  
-- ⭐ Stars GitHub: lihat badge GitHub Repo stars  
-- 🕒 Last Commit: lihat badge Last Commit  
-- 📂 Ukuran repo: lihat badge Repo Size  
 
 ---
 
@@ -85,18 +70,6 @@ import { Dl_YTS } from 'ness-downloader';
 ## 🙏 Terima Kasih
 
 Terima kasih telah menggunakan `ness-downloader`!  
-Semoga bermanfaat — bantu sebarkan jika cocok!
-
----
-
-## 📌 Tag / Kategori
-
-Node.js, YouTube downloader, Express API, NPM Module, Open Source
-
----
-
-⚡ Jangan lupa untuk menyesuaikan:
-- `nobetachan/NESSID` → ganti sesuai nama repo GitHub kamu  
-- `ness-downloader` → sesuaikan jika nama package di npm berbeda
+Semoga bermanfaat!
 
 ---
