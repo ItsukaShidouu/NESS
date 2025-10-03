@@ -8,7 +8,7 @@ import { Dl_MP3 } from './plugins/Dl-YTMP3.js';
 import { Dl_MP4 } from './plugins/Dl-YTMP4.js';
 import { Dl_SPOTIFY } from './plugins/Dl-SPOTIFY.js';
 import { Dl_TT } from './plugins/Dl-TT.js';
-import { Dl_x } from './plugins/Dl-X.js';
+import { Dl_X } from './plugins/Dl-X.js';
 import { Dl_YTS } from './plugins/Dl-YTS.js';
 
 const ness = {
@@ -22,7 +22,7 @@ const ness = {
   Dl_MP4,
   Dl_SPOTIFY,
   Dl_TT,
-  Dl_x,
+  Dl_X,
   Dl_YTS
 };
 
