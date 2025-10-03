@@ -4,9 +4,8 @@ nessid.SPOTIFYDl('https://open.spotify.com/intl-id/track/5WOSNVChcadlsCRiqXE45K?
   .then(console.log)
   .catch(console.error);*/
   
-/*import nessid from './index.js';
+import nessid from './index.js';
 
-nessid.AWaifu()
+nessid.Dl-ytsearch(sahroni)
   .then(console.log)
   .catch(console.error);
-*/
