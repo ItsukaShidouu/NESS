@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { domain } from '../index.js';
 
-export async function IGDl(url) {
+export async function Dl_IG(url) {
   if (!url) throw new Error('URL is required.');
 
   try {
