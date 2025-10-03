@@ -1,11 +1,11 @@
 import axios from 'axios';
 import { domain } from '../index.js';
 
-export async function Dl_MP4(url) {
+export async function Dl_YT(url) {
   if (!url) throw new Error('URL is required.');
 
   try {
-    const { data } = await axios.get(`${domain}/api/downloader/ytmp4`, {
+    const { data } = await axios.get(`${domain}/api/downloader/youtube`, {
       params: { url },
     });
 
