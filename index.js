@@ -9,7 +9,7 @@ import { Dl_MP4 } from './plugins/Dl-YTMP4.js';
 import { Dl_SPOTIFY } from './plugins/Dl-SPOTIFY.js';
 import { Dl_TT } from './plugins/Dl-TT.js';
 import { Dl_x } from './plugins/Dl-X.js';
-import { Dl_YTS } from './plugins/Dl-yts.js';
+import { Dl_YTS } from './plugins/Dl-YTS.js';
 
 const ness = {
   A_Cos,
