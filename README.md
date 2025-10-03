@@ -7,18 +7,9 @@
 
 ---------
 
-<details open align="center">
-<summary><b>↓ Total Visitors ↓</b></summary>
-<br>
-<a href="https://www.instagram.com/yusupk_."><img alt="Cute Count" src="https://count.getloli.com/get/@NeofetchNpc?theme=rule34"/></a>
-</details>
-</div>
-
----------
-
 # 📍 `Changelogs`
 ```js
-+ Yt Search
++ Fix All Code
 ```
 
 ---------
@@ -26,4 +17,3 @@
 # 📍 `MORE INFO`
 - [DOCS](https://github.com/nobetachan/NESSID/wiki)
 - [DONATE](https://saweria.co/YUSUP909)
-- [DISCORD](https://discord.gg/y4W3yd5GU5)
