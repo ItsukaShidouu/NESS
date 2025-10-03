@@ -25,6 +25,7 @@
 ```text
 + Refactor seluruh kode
 + Penyederhanaan nama fungsi
++ Fb, Mediafire, Capcut, Gdrive.
 ```
 
 ---
