@@ -10,6 +10,7 @@
 # 📍 `Changelogs`
 ```js
 + Fix All Code
++ Change Func Simple Name
 ```
 
 ---------
