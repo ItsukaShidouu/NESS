@@ -4,8 +4,7 @@ import { A_Wall } from './plugins/ANI-Wall.js';
 import { A_Waifu } from './plugins/ANI-Waifu.js';
 import { Dl_AIO } from './plugins/Dl-AIO.js';
 import { Dl_IG } from './plugins/Dl-IG.js';
-import { Dl_MP3 } from './plugins/Dl-YTMP3.js';
-import { Dl_MP4 } from './plugins/Dl-YTMP4.js';
+import { Dl_YT } from './plugins/Dl-YT.js';
 import { Dl_SPOTIFY } from './plugins/Dl-SPOTIFY.js';
 import { Dl_TT } from './plugins/Dl-TT.js';
 import { Dl_X } from './plugins/Dl-X.js';
@@ -18,8 +17,7 @@ const ness = {
   A_Waifu,
   Dl_AIO,
   Dl_IG,
-  Dl_MP3,
-  Dl_MP4,
+  Dl_YT,
   Dl_SPOTIFY,
   Dl_TT,
   Dl_X,
