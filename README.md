@@ -46,11 +46,11 @@ npm install ness-downloader
 Contoh penggunaan dasar:
 
 ```js
-import { Dl_YTS } from 'ness-downloader';
+import ness from 'ness-downloader';
 
 (async () => {
   try {
-    const data = await Dl_YTS('kata kunci pencarian');
+    const data = await ness.Dl_YTS('kata kunci pencarian');
     console.log(data);
   } catch (err) {
     console.error('Error:', err.message);
