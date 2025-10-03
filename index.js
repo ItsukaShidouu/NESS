@@ -9,6 +9,7 @@ import { AWaifu } from './plugins/ANIME-Waifu.js';
 import { ALoli } from './plugins/ANIME-Loli.js';
 import { ACosplayer } from './plugins/ANIME-Cosplayer.js';
 import { AWallpaper } from './plugins/ANIME-Wallpaper.js';
+import { Dl-ytsearch } from './plugins/Dl-ytsearch.js';
 
 const nessid = {
   AioDl,
@@ -21,7 +22,8 @@ const nessid = {
   AWaifu,
   ALoli,
   ACosplayer,
-  AWallpaper
+  AWallpaper,
+  Dl-ytsearch
 };
 
 export default nessid;
