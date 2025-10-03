@@ -1,9 +1,9 @@
 import axios from 'axios';
 import { domain } from '../index.js';
 
-export async function ACosplayer() {
+export async function A_Cos() {
   try {
-    const { data } = await axios.get(`${domain}/api/anime/cosplayer`);
+    const { data } = await axios.get(`${domain}/api/anime/cos`);
     return data;
   } catch (error) {
     throw new Error(error.response?.data?.message || error.message);
