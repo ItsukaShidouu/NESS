@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { domain } from '../index.js';
 
-export async function YTMP4Dl(url) {
+export async function Dl_MP4(url) {
   if (!url) throw new Error('URL is required.');
 
   try {
