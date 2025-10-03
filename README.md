@@ -31,8 +31,8 @@
 
 ## 📚 Dokumentasi & Informasi
 
-- 📘 [Wiki Dokumentasi Lengkap](#)
-- 💖 [Donasi / Support via Saweria](#)
+- 📘 [Wiki Dokumentasi Lengkap](https://github.com/ItsukaShidouu/NESSID/wiki)
+- 💖 [Donasi / Support via Saweria](https://saweria.co/YUSUP909)
 
 ---
 
