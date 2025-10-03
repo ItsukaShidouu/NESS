@@ -1,7 +1,7 @@
 {
-  "name": "nessid",
-  "version": "1.0.2",
-  "description": "Self Module",
+  "name": "ness-downloader",
+  "version": "1.0.0",
+  "description": "Self Api Downloader Module",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -75,11 +75,11 @@
     "Web tools",
     "Development tools"
   ],
-  "author": "BukanNPC",
+  "author": "ItsukaShidou",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nobetachan/NESSID.git"
+    "url": "https://github.com/ItsukaShidouu/NESSID.git"
   },
   "homepage": "https://saweria.co/YUSUP909",
   "dependencies": {
