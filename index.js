@@ -9,6 +9,9 @@ import { Dl_SPOTIFY } from './plugins/Dl-SPOTIFY.js';
 import { Dl_TT } from './plugins/Dl-TT.js';
 import { Dl_X } from './plugins/Dl-X.js';
 import { Dl_YTS } from './plugins/Dl-YTS.js';
+import { Dl_CC } from './plugins/Dl-CC.js';
+import { Dl_GDRIVE } from './plugins/Dl-GDRIVE.js';
+import { Dl_Mediafire } from './plugins/Dl-Mediafire.js';
 
 const ness = {
   A_Cos,
@@ -21,7 +24,10 @@ const ness = {
   Dl_SPOTIFY,
   Dl_TT,
   Dl_X,
-  Dl_YTS
+  Dl_YTS,
+  Dl_CC,
+  Dl_GDRIVE,
+  Dl_Mediafire
 };
 
 export default ness;
