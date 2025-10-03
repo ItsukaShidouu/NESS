@@ -12,6 +12,7 @@ import { Dl_YTS } from './plugins/Dl-YTS.js';
 import { Dl_CC } from './plugins/Dl-CC.js';
 import { Dl_GDRIVE } from './plugins/Dl-GDRIVE.js';
 import { Dl_Mediafire } from './plugins/Dl-Mediafire.js';
+import { Dl_FB } from './plugins/Dl-FB.js';
 
 const ness = {
   A_Cos,
@@ -27,7 +28,8 @@ const ness = {
   Dl_YTS,
   Dl_CC,
   Dl_GDRIVE,
-  Dl_Mediafire
+  Dl_Mediafire,
+  Dl_FB
 };
 
 export default ness;
