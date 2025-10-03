@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { domain } from '../index.js';
 
-export async function AioDl(url) {
+export async function Dl_AIO(url) {
   if (!url) throw new Error('URL is required.');
 
   try {
