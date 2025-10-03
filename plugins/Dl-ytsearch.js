@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { domain } from '../index.js';
 
-export async function TYtsearch() {
+export async function Dl-ytsearch() {
   try {
     const { data } = await axios.get(`${domain}/api/tools/yt-search`);
     return data;
