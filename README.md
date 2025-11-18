@@ -30,7 +30,7 @@
 
 ## 📚 Dokumentasi & Informasi
 
-- 📘 [Wiki Dokumentasi Lengkap](https://github.com/ItsukaShidouu/NESSID/wiki)
+- 📘 [Wiki Dokumentasi Lengkap](https://github.com/ItsukaShidouu/NESS/wiki)
 - 💖 [Donasi / Support via Saweria](https://saweria.co/YUSUP909)
 
 ---
