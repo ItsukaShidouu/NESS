@@ -1,6 +1,6 @@
 {
   "name": "ness-downloader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Self Api Downloader Module",
   "main": "index.js",
   "type": "module",
