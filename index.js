@@ -1,4 +1,3 @@
-import { A_Cos } from './plugins/ANI-Cos.js';
 import { A_Loli } from './plugins/ANI-Loli.js';
 import { A_Wall } from './plugins/ANI-Wall.js';
 import { A_Waifu } from './plugins/ANI-Waifu.js';
@@ -15,7 +14,6 @@ import { Dl_Mediafire } from './plugins/Dl-Mediafire.js';
 import { Dl_FB } from './plugins/Dl-FB.js';
 
 const ness = {
-  A_Cos,
   A_Loli,
   A_Wall,
   A_Waifu,
