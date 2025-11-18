@@ -13,10 +13,9 @@
 
 ---
 
-# 🛑 Dalam Pengembangan  
-> ⚠️ *Modul ini masih dalam tahap pengembangan. Gunakan dengan bijak!*  
+> ⚠️ *Gunakan module ini dengan bijak!*  
 >  
-> Jangan lakukan spam karena server kami di-host secara gratis di Vercel.  
+> Jangan lakukan spam karena server kami di-host secara gratis.  
 > Jika ingin mendukung, silakan kunjungi link donasi di halaman utama.
 
 ---
@@ -25,7 +24,6 @@
 ```text
 + Refactor seluruh kode
 + Penyederhanaan nama fungsi
-+ Fb, Mediafire, Capcut, Gdrive.
 ```
 
 ---
@@ -57,14 +55,6 @@ import ness from 'ness-downloader';
   }
 })();
 ```
-
----
-
-## 🧩 Tips Pengembangan
-
-- Modul belum final, API bisa berubah sewaktu-waktu.
-- Selalu cek changelog sebelum melakukan update.
-- Temukan bug atau punya ide fitur baru? Buat issue atau PR di repo utama.
 
 ---
 
