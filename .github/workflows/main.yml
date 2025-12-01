@@ -1,4 +1,6 @@
 name: Run Node.js Script
+permissions:
+  contents: read
 
 on:
   push:
