@@ -1,5 +1,3 @@
-# 📦 ness-downloader
-
 ![npm](https://img.shields.io/npm/v/ness-downloader?style=for-the-badge\&color=blue)
 ![npm downloads](https://img.shields.io/npm/dw/ness-downloader?style=for-the-badge\&color=orange)
 ![npm total downloads](https://img.shields.io/npm/dt/ness-downloader?style=for-the-badge\&color=teal)
@@ -30,7 +28,7 @@
 ## 📚 Documentation & Information
 
 * 📘 [Full Documentation Wiki](https://github.com/ItsukaShidouu/NESS/wiki)
-* 💖 [Donate / Support via Saweria](https://saweria.co/YUSUP909)
+* 💖 [Donate / Support Via Saweria](https://saweria.co/YUSUP909)
 
 ---
 
