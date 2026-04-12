@@ -101,6 +101,6 @@
   },
   "homepage": "https://saweria.co/YUSUP909",
   "dependencies": {
-    "axios": "1.13.5"
+    "axios": "1.15.0"
   }
 }
